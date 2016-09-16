@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app serves as a skeleton structure for the Product Creation Tool take home test.
 
-Things you may want to cover:
+## Setup instructions
 
-* Ruby version
+1. Clone the project
+1. Run in the project directory
 
-* System dependencies
+```
+$ bundle
+```
 
-* Configuration
+## Tests
+ 
+To invoke tests, run:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+rails test
+```
